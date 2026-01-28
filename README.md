@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 Затем клонируйте репозиторий:
 ```
-git clone
+git clone https://github.com/AnhraMainyu-dev/Bank-security-console-DevMan
 ```
 Необходимые данные для запуска программы должны быть указаны в файле ****settings.py****.  
 
